@@ -1890,4 +1890,4 @@ class XT9Engine:
     9. Learning
     """
 
- VERSION ="1000.0."
+ VERSION = "1000.0.0"
